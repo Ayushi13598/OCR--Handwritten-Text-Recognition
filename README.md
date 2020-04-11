@@ -11,7 +11,7 @@ Proces of recognition is divided into 4 steps. The initial input is a photo of p
 3.Normalization of words
 4.Separation and recegnition of characters (recognition of words)
 
-The folders available withing the repository:
+### The folders available withing the repository:
 1. Data- It is the folder where the input images are to be put.
 2. Src- It contains all the required files that are needed for the main file to run and recognise handwritten text from input images.
 3. Txt- Contains the output file that is the text recognised from the input image in the form of .txt
